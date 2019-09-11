@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-
-namespace TekstowoDownloader
+﻿namespace TekstowoDownloader
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string dir = @"M:\Zespoly\Various Artists\2008 - Świat wg Nohavicy";
 
